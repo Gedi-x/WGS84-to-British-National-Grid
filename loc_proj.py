@@ -23,8 +23,4 @@ def proj_arr_uk(points):
 
 #example
 #proj_arr_uk([[0.2,50]])
-
-
-
-
-
+#proj_arr_uk([[lon,lat]])
